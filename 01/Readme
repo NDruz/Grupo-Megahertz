@@ -10,5 +10,8 @@ contrario si su entrada es 1, su salida será 0. Este comportamiento es el mismo
 
 Compuerta AND:
 
+Para esta compuerta utilizamos la NAND y la NOT ya que esta ultima ya la construimos. Simplemente las entradas pasan por la compuerta NAND y despues negamos su salida, de esta forma obtenemos la compuerta AND.
+
+Compuerta OR: 
 
 
