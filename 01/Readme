@@ -5,5 +5,10 @@ las demas compuertas logicas, pasando por las mas basicas a las mas complejas.
 
 Compuerta NOT:
 
-Esta es la primera compuerta que se realizó a partir de la compuerta primitiva NAND. Basicamente, colocamos 
+Esta es la primera compuerta que se realizó a partir de la compuerta primitiva NAND. Basicamente,las dos entradas de la NAND van a ser la misma (in), por lo que si el valor de la entrada es 0, su salida será 1 y de modo 
+contrario si su entrada es 1, su salida será 0. Este comportamiento es el mismo de la compuerta NOT.
+
+Compuerta AND:
+
+
 
