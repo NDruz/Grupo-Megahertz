@@ -1,1 +1,9 @@
+PRACTICA 1: LOGICA BOOLEANA
+
+El proposito de esta practica es comprender detalladamente el funcionamiento de las compuertas logicas. Para esto, partimos de la compuerta logica basica "NAND" y a apartir de ella construimos 
+las demas compuertas logicas, pasando por las mas basicas a las mas complejas.
+
+Compuerta NOT:
+
+Esta es la primera compuerta que se realizó a partir de la compuerta primitiva NAND. Basicamente, colocamos 
 
